@@ -1,0 +1,7 @@
+hik:
+  open-api:
+    host: https://192.168.205.1:443
+    artemis: artemis
+    app-key: 25699962
+    app-secret: TkZeXuKdqddmWigKsHMD
+    network-logging-level: BODY
